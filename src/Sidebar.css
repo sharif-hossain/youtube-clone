@@ -1,0 +1,14 @@
+.sidebar{
+    flex: 0.2;
+}
+
+.sidebar__icon{
+    display: flex;
+}
+
+.sidebar > hr {
+    margin: 10px 0 0;
+    background-color: lightgray;
+    height: 1px;
+    border: 0;
+}

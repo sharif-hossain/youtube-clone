@@ -25,6 +25,8 @@ function Header() {
                 <NotificationsIcon className='header__icon'/>
                 <AccountCircleIcon className='header__icon'/>
             </div>
+            
+             
         </div>
     )
 }
