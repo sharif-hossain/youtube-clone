@@ -34,6 +34,7 @@
     background-color: #fafafa;
     border-left: 1px solid lightgray;
     color: gray;
+    cursor: pointer;
 }
 
 .header__icons{
